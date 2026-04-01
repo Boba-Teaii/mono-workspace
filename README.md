@@ -20,7 +20,7 @@ This workspace helps teams collaborate efficiently while also serving as a learn
 
 ---
 
-## 📂 Structure
+## 📂 Code Structure
 
 ```
 mono-workspace/
@@ -41,7 +41,7 @@ mono-workspace/
 
 * **@boba_Teaii**
   🧠 Role: Project Lead | Full Stack | Management
-  📌 Contribution: Project architecture, repo setup, bot system design, overall coordination
+  📌 Contribution: Project architecture, repo setup, bot system design, UI/UX design, overall coordination
 
 ---
 
@@ -134,3 +134,4 @@ Open in VS Code and explore the folders based on your needs.
 
 If you like this project, consider giving it a ⭐
 It helps support development and motivates the team 🚀
+
